@@ -3,7 +3,7 @@
 
 This is the code I used to complete PA3(Conditional GAN) in the course "Computer Graphics Fundamentals" at Tsinghua University.
 
-Since the final model file is over 5MB and cannot be uploaded, I put it on the following link: [CGAN](https://cloud.tsinghua.edu.cn/d/1ecbd3b621e244d388e8/)
+Since the final model file is too big to be uploaded, I put it on the following link: [CGAN](https://cloud.tsinghua.edu.cn/d/1ecbd3b621e244d388e8/)
 
  ![result](result.png)                                                                                 
 
